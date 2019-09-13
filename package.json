@@ -1,0 +1,26 @@
+{
+  "name": "dsp-course-design",
+  "version": "1.0.0",
+  "description": "DSP-course-design:echo & equalizer",
+  "main": "src\\dspshiyan.m",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allenem/DSP-course-design.git"
+  },
+  "author": "Allenem & ionicbond-lzj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Allenem/DSP-course-design/issues"
+  },
+  "homepage": "https://github.com/Allenem/DSP-course-design#readme",
+  "devDependencies": {
+    "all-contributors-cli": "^6.9.0"
+  }
+}
