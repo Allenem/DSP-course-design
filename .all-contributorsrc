@@ -19,6 +19,15 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "ionicbond-lzj",
+      "name": "ionicbond-lzj",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/45113875?v=4",
+      "profile": "https://github.com/ionicbond-lzj",
+      "contributions": [
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7

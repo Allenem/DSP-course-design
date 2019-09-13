@@ -1,5 +1,5 @@
 # 很菜的DSP课设
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 
 ## 一、我和子建同学主要做的是以下两个实验
 
@@ -63,6 +63,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://Allenem.github.io"><img src="https://avatars1.githubusercontent.com/u/33366355?v=4" width="100px;" alt="蒲尧"/><br /><sub><b>蒲尧</b></sub></a><br /><a href="https://github.com/Allenem/DSP-course-design/commits?author=Allenem" title="Code">💻</a> <a href="https://github.com/Allenem/DSP-course-design/commits?author=Allenem" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/ionicbond-lzj"><img src="https://avatars0.githubusercontent.com/u/45113875?v=4" width="100px;" alt="ionicbond-lzj"/><br /><sub><b>ionicbond-lzj</b></sub></a><br /><a href="https://github.com/Allenem/DSP-course-design/commits?author=ionicbond-lzj" title="Tests">⚠️</a></td>
   </tr>
 </table>
 
